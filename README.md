@@ -4,7 +4,6 @@
 This project is an Arduino-based safe security system that unlocks using a 3-digit button code.
 Three push buttons are used to enter the code, and two LEDs indicate whether access is granted or denied.
 
-This project was created as part of the EBSY – Arduino – Safe – 25SD assignment.
 
 ⚙️ How It Works
 
