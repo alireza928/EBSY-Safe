@@ -102,5 +102,5 @@ Use an LCD display for feedback
 
 👨‍💻 Author
 
-[Alireza Oftadeh]
+[Alireza]
 EBSY – Arduino – Safe
